@@ -5,7 +5,7 @@
 * Kontakt: miroslav.reiter@it-academy.sk | miroslav.reiter@fm.uniba.sk 
 * Úroveň: začiatočník/mierne pokročilý
 
-# Používané nástroje dátovej analýzy
+# ⚒️ Používané nástroje dátovej analýzy
 - 🐍 **Python** - momentálne **najpopulárnejší jazyk pre vedu o údajoch (Data science)**. Python je síce interpretovaný a pomalší jazyk ako C/C++, ale využitím knižníc, ako je NumPy (a Pandas navyše), sa môžeme priblížiť rýchlosti C.
 - 🪐 **Jupyter** - **nástroj s prostredím interaktívneho notebooku**, mocný prieskumný, vizualizačný a komunikačný nástroj.
 - 🐼 **Pandas** - **nástroj** na manipuláciu s **tabuľkovými údajmi** v Pythone. Je to obrovská **knižnica**, ale ak poznáte správne metódy, môžeme vytvoriť výkonnú analýzu.
