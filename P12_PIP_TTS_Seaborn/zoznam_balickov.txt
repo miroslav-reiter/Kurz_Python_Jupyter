@@ -1,0 +1,27 @@
+# Zoznam balickov bez verzii
+numpy
+scipy
+seaborn
+wxpython
+django
+
+# Zoznam balickov s verziami
+asttokens==2.0.5
+backcall==0.2.0
+certifi==2021.10.8
+charset-normalizer==2.0.12
+click==8.1.2
+colorama>=0.4.4
+comtypes<=1.1.11
+cowsay~=3.5
+cycler==0.11.0
+debugpy==1.6.0
+entrypoints==0.4
+executing==0.8.3
+fonttools==4.31.2
+gTTS==2.2.4
+idna==3.3
+ipykernel==6.12.1
+ipython==8.2.0
+jedi==0.18.1
+jupyter-client==7.2.1
